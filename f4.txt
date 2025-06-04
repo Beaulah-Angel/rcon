@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 f4 in remote
+=======
+f4 in local
+>>>>>>> 05535e3 (commit)
